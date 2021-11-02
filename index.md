@@ -1,8 +1,10 @@
 ## Welcome PyTask红队漏洞利用框架、渗透测试、Red Team、安全工具、漏洞框架、CVE漏洞、跟踪最新漏洞、漏洞武器化工程化
 
-You can use the [editor on GitHub](https://github.com/greekn/pytask/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PyTask 红队漏洞利用框架、始终定位成immunityinc 公司的CANVAS漏洞利用框架、面向安全从业者、红队、蓝队、等群体。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在安全攻防演练活动中快速上手的一款自动化漏洞利用框架，帮助你的团队保持前进和优势。
+
+
 
 ### Markdown
 
