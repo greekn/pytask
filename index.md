@@ -4,6 +4,8 @@ PyTask 红队漏洞利用框架、始终定位成immunityinc 公司的CANVAS漏�
 
 在安全攻防演练活动中快速上手的一款自动化漏洞利用框架，帮助你的团队保持前进和优势。
 
+![img](https://github.com/greekn/pytask/blob/gh-pages/img/01.jpg)
+
 ### 当前版本
 
 PyTask当前版本：1.0
