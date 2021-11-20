@@ -13,13 +13,12 @@ PyTask当前版本：1.0
 
 [查看截图](https://github.com/greekn/pytask/blob/gh-pages/README.md) 
 
+### 使用场景
 
+渗透测试团队>>安服团队>>红队>>蓝队
 
 ### 框架基础架构
 [查看文档](https://github.com/greekn/pytask/blob/main/pdf/Pytask%E7%BA%A2%E9%98%9F%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8%E6%A1%86%E6%9E%B6%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0_20211121002949.pdf) 
-
-
-
 
 ### 漏洞关注面
 
