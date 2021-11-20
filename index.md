@@ -23,4 +23,4 @@ PyTask当前版本：1.0
 
 ### 使用教程
 
-<iframe src="https://player.vimeo.com/video/643797578?h=00d70b82cc" width="640" height="361" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="http://player.bilibili.com/player.html?aid=24931813&cid=42084760&page=1" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
