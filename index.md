@@ -25,6 +25,7 @@ PyTask当前版本：1.0
 
 ### 技术Papers文章
 
+[Pytask和Canvas的差距](https://github.com/greekn/pytask/blob/gh-pages/paper/Pytask%E5%92%8CCanvas%E7%9A%84%E5%B7%AE%E8%B7%9D.md) 
 
 ### 使用教程
 
