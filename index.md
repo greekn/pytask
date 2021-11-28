@@ -11,7 +11,7 @@ PyTask 红队漏洞利用框架、始终定位成immunityinc 公司的CANVAS漏�
 
 PyTask当前版本：1.0
 
-[![01.jpg](https://i.postimg.cc/G20pDzmB/01.jpg)](https://postimg.cc/5H31dBv1)
+[![02.png](https://i.postimg.cc/s1dDjyDx/02.png)](https://postimg.cc/301H1sGQ)
 
 ### 使用场景
 
